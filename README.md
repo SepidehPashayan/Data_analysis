@@ -111,7 +111,7 @@ The notebook produces a 2×2 figure containing:
 
 ```
 cardiac-risk/
-└── notebook.ipynb       # Full pipeline: cleaning → model → evaluation
+└── sep.ipynb       # Full pipeline: cleaning → model → evaluation
     Ds_Fater (2).csv     # Raw patient dataset (required)
 ```
 
@@ -127,7 +127,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 ### Run
 
-Open `notebook.ipynb` in Jupyter and run all cells in order.
+Open `sep.ipynb` in Jupyter and run all cells in order.
 
 ---
 
